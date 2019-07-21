@@ -1,0 +1,5 @@
+2019-07-18 13:14:16,121 - simple_loggre - INFO - in init method of selenium base
+2019-07-18 13:14:22,532 - simple_loggre - INFO - chrome browser is launch successfully
+2019-07-18 13:15:12,436 - simple_loggre - INFO - click on checkboxes link
+2019-07-18 13:15:12,690 - simple_loggre - INFO - click on checkbox1
+2019-07-18 13:15:12,690 - simple_loggre - INFO - application close

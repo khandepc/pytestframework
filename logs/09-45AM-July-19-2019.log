@@ -1,0 +1,3 @@
+2019-07-19 09:45:20,653 - simple_loggre - INFO - in init method of selenium base
+2019-07-19 09:45:38,110 - simple_loggre - INFO - chrome browser is launch successfully
+2019-07-19 09:45:45,285 - simple_loggre - INFO - application close

@@ -1,0 +1,9 @@
+2019-07-18 19:25:14,542 - simple_loggre - INFO - in init method of selenium base
+2019-07-18 19:25:18,880 - simple_loggre - INFO - chrome browser is launch successfully
+2019-07-18 19:25:28,640 - simple_loggre - INFO - click on javascript alerts link
+2019-07-18 19:25:35,345 - simple_loggre - INFO - in init method of selenium base
+2019-07-18 19:25:38,738 - simple_loggre - INFO - chrome browser is launch successfully
+2019-07-18 19:25:49,569 - simple_loggre - INFO - click on javascript alerts link
+2019-07-18 19:25:49,907 - simple_loggre - INFO - in init method of selenium base
+2019-07-18 19:25:55,382 - simple_loggre - INFO - chrome browser is launch successfully
+2019-07-18 19:26:04,164 - simple_loggre - INFO - click on javascript alerts link
