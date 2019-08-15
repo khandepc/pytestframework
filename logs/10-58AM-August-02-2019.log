@@ -1,0 +1,5 @@
+2019-08-02 10:58:40,761 - simple_loggre - INFO - in init method of selenium base
+2019-08-02 10:58:44,613 - simple_loggre - INFO - chrome browser is launch successfully
+2019-08-02 10:59:12,094 - simple_loggre - INFO - test verify count of options
+2019-08-02 10:59:12,094 - simple_loggre - INFO - click on Abtesting link
+2019-08-02 10:59:12,094 - simple_loggre - INFO - application close

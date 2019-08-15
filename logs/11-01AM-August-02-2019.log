@@ -1,0 +1,7 @@
+2019-08-02 11:01:07,670 - simple_loggre - INFO - in init method of selenium base
+2019-08-02 11:01:10,454 - simple_loggre - INFO - chrome browser is launch successfully
+2019-08-02 11:01:16,225 - simple_loggre - INFO - verify count of options
+2019-08-02 11:01:16,225 - simple_loggre - INFO - click on Add/remove elements link
+2019-08-02 11:01:16,358 - simple_loggre - INFO - click on add element button
+2019-08-02 11:01:16,492 - simple_loggre - INFO - click on remove element button
+2019-08-02 11:01:16,493 - simple_loggre - INFO - application close

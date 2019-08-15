@@ -1,0 +1,42 @@
+2019-08-02 11:04:44,727 - simple_loggre - INFO - in init method of selenium base
+2019-08-02 11:04:49,518 - simple_loggre - INFO - chrome browser is launch successfully
+2019-08-02 11:04:58,500 - simple_loggre - INFO - test verify count of options
+2019-08-02 11:04:58,501 - simple_loggre - INFO - click on home link dropdown
+2019-08-02 11:04:58,605 - simple_loggre - INFO - verify options are matching with count of 3
+2019-08-02 11:04:58,606 - simple_loggre - INFO - application close
+2019-08-02 11:05:00,843 - simple_loggre - INFO - in init method of selenium base
+2019-08-02 11:05:04,154 - simple_loggre - INFO - chrome browser is launch successfully
+2019-08-02 11:05:10,205 - simple_loggre - INFO - test verify select option one by index
+2019-08-02 11:05:10,206 - simple_loggre - INFO - click on home link dropdown
+2019-08-02 11:05:10,410 - simple_loggre - INFO - select option one by index
+2019-08-02 11:05:10,412 - simple_loggre - INFO - application close
+2019-08-02 11:05:12,628 - simple_loggre - INFO - in init method of selenium base
+2019-08-02 11:05:15,228 - simple_loggre - INFO - chrome browser is launch successfully
+2019-08-02 11:05:20,292 - simple_loggre - INFO - test verify select option one by value
+2019-08-02 11:05:20,292 - simple_loggre - INFO - click on home link dropdown
+2019-08-02 11:05:20,485 - simple_loggre - INFO - select option one by value
+2019-08-02 11:05:20,487 - simple_loggre - INFO - application close
+2019-08-02 11:05:22,693 - simple_loggre - INFO - in init method of selenium base
+2019-08-02 11:05:25,286 - simple_loggre - INFO - chrome browser is launch successfully
+2019-08-02 11:05:31,367 - simple_loggre - INFO - test verify select option one by visible text
+2019-08-02 11:05:31,367 - simple_loggre - INFO - click on home link dropdown
+2019-08-02 11:05:31,574 - simple_loggre - INFO - select option one by visibletext
+2019-08-02 11:05:31,575 - simple_loggre - INFO - application close
+2019-08-02 11:05:33,795 - simple_loggre - INFO - in init method of selenium base
+2019-08-02 11:05:36,419 - simple_loggre - INFO - chrome browser is launch successfully
+2019-08-02 11:05:40,962 - simple_loggre - INFO - test verify select option two by index
+2019-08-02 11:05:40,963 - simple_loggre - INFO - click on home link dropdown
+2019-08-02 11:05:41,308 - simple_loggre - INFO - select option two by index
+2019-08-02 11:05:41,310 - simple_loggre - INFO - application close
+2019-08-02 11:05:43,521 - simple_loggre - INFO - in init method of selenium base
+2019-08-02 11:05:46,280 - simple_loggre - INFO - chrome browser is launch successfully
+2019-08-02 11:05:51,414 - simple_loggre - INFO - test verify select option two by value
+2019-08-02 11:05:51,415 - simple_loggre - INFO - click on home link dropdown
+2019-08-02 11:05:51,573 - simple_loggre - INFO - select option two by value
+2019-08-02 11:05:51,576 - simple_loggre - INFO - application close
+2019-08-02 11:05:53,807 - simple_loggre - INFO - in init method of selenium base
+2019-08-02 11:05:56,415 - simple_loggre - INFO - chrome browser is launch successfully
+2019-08-02 11:06:05,190 - simple_loggre - INFO - test verify select option two by visible text
+2019-08-02 11:06:05,190 - simple_loggre - INFO - click on home link dropdown
+2019-08-02 11:06:05,375 - simple_loggre - INFO - select option two by visibletext
+2019-08-02 11:06:05,376 - simple_loggre - INFO - application close

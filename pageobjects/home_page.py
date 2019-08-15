@@ -1,4 +1,5 @@
 from generic.base import Base
+from generic.loggingbase import logger as log
 
 linktextHomeLink='{}'
 
@@ -10,5 +11,7 @@ class HomePage(Base):
 
 
     def click_home_link(self,linkname):
-        element=self.get_home_link(linkname)
-        self.perform_actions(element=element,action_type="click")
+        log.info("click on homelink", linkname)
+        elem=self.get_home_link(linkname)
+        self.perform_actions(element=elem,action_type="click")
+

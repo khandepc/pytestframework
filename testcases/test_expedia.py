@@ -11,6 +11,7 @@ xpath_mumbai="//span/div[@class='multiLineDisplay']/b[contains(text(),'Mumbai')]
 id_departing_input_box = "input#flight-departing-hp-flight"
 id_returning_input_box = "input#flight-returning-hp-flight"
 xpath_search_button = "//*[@id='gcw-flights-form-hp-flight']/div[8]/label/button/span"
+
 class TestExpedia:
     def test_functionality_of_expedia_with_valid_detail(self):
         sb=SeleniumBase("chrome")

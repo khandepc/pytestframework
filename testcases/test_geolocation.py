@@ -1,4 +1,4 @@
 from generic.base import Base
 
-class GeoLocation:
+class GeoLocation(Base):
     pass
